@@ -3,3 +3,11 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+.start-100 {
+    left: 88%!important;
+}
+
+.fa-check-circle{
+  
+   color: #5243C2;
+}
